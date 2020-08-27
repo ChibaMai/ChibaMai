@@ -8,17 +8,15 @@
 <!-- [![提问箱](https://img.shields.io/badge/-？%20提问箱-FF4088)](https://www.popiask.cn/yashimoe) -->
 <!-- [![Donate 捐助](https://img.shields.io/badge/-Donate%20捐助-F7931A?logo=Bitcoin&labelColor=F7931A&logoColor=fff)](https://afdian.net/@yashi) -->
 
-<!--
-【 🐦 [Twitter](http://twitter.com/Thomavader) | 👁 [微博](https://weibo.com/5114345126) | 📕 [Facebook](https://www.facebook.com/lwmwll691)  | 👗 [相册](https://github.com/) | 📔 [留言]() | 💝 [捐助]() | 🗳 [提问箱]() 】
--->
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thomasvader&theme=default&show_icons=true)
 
 [![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=eb4923)](https://github.com/topics/html?q=html5&unscoped_q=html5)
 [![CSS3](https://img.shields.io/static/v1?label=&message=CSS&color=167dbe)](https://github.com/topics/css)
 [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=f7df1e)](https://github.com/topics/javascript)
-[![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB)](https://github.com/topics/python)
+[![Vue](https://img.shields.io/static/v1?label=&message=Vue&color=3fb984)](https://github.com/topics/vue)
 [![Angular](https://img.shields.io/static/v1?label=&message=Angular&color=dd0031)](https://github.com/topics/angular)
+[![React](https://img.shields.io/static/v1?label=&message=React&color=61dbfb)](https://github.com/topics/react)
+[![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB)](https://github.com/topics/python)
 [![Flutter](https://img.shields.io/static/v1?label=&message=Flutter&color=02569b)](https://github.com/topics/flutter)
 
 ### 我的 Github 分类目录
