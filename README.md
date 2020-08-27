@@ -18,6 +18,9 @@
 [![React](https://img.shields.io/static/v1?label=&message=React&color=61dbfb)](https://github.com/topics/react)
 [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB)](https://github.com/topics/python)
 [![Flutter](https://img.shields.io/static/v1?label=&message=Flutter&color=02569b)](https://github.com/topics/flutter)
+[![Dart](https://img.shields.io/static/v1?label=&message=Dart&color=00589d)](https://github.com/topics/dart)
+[![Electronjs](https://img.shields.io/static/v1?label=&message=Electronjs&color=3b3e4e)](https://github.com/topics/electronjs)
+
 
 ### 我的 Github 分类目录
 
