@@ -25,18 +25,17 @@
 
 ### 我的 GitHub 分类目录
 
-| 名称 | 地址 | 描述 |
-| :----: | :----: | :----: |
-|  |  |
+| 名称 | 官网地址 | 描述 |
+| :----: | :---: | :--- | 
+| 🎨 [hexo-theme-sitio](https://github.com/Aftersoil/hexo-theme-sitio) | 👗 [sitio](https://sitio.aftersoil.xyz/) | 📜 优雅的hexo主题 Hexo elegant theme,是 Sitio 的主要开发者之一 |
 
 ### 我的贡献的 GitHub 仓库
-| 名称 | 地址 | 描述 |
-| :----: | :----: | :--- | 
-|  |  |
-| 🤔 ejs-site | [ejs-site](https://github.com/mde/ejs-site) | 📜 在 ejs 官网的修改了布局一点布局/添加pwa/logo等技术 |
+| 名称 | 官网地址 | 描述 |
+| :----: | :---: | :--- | 
+| 🤔 [ejs-site](https://github.com/mde/ejs-site) | ⚡ [ejs](https://ejs.co/) | 📜 在 ejs 官网的修改了布局一点布局/添加pwa/logo等技术 |
 
 <!--
-|  | 📜  |
+| 🤔  | ✨ []() | 📜  |
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
