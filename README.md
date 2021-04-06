@@ -1,4 +1,13 @@
-## 你好，这里是 🌸语心/Thomasvader🌈 ！
+<img align="center" src="https://github.com/hv0905/hv0905/raw/master/cover.jpg"/>
+
+### Hi, I'm Chiba Mai.
+
+### welcome to my profile.
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=thomasvader&theme=default&show_icons=true"><img src="https://github-readme-stats.vercel.app/api?username=thomasvader&theme=default&show_icons=true" /></a>
+</p>
+
+---
 
 <!-- [![PGP Key](https://img.shields.io/badge/-PGPkey-0093DD?logo=GNU%20Privacy%20Guard&labelColor=0093DD&logoColor=fff)](https://github.com/kagurazakayashi/pubkey) -->
 [![微博](https://img.shields.io/badge/-微博-E6162D?logo=Sina%20Weibo&labelColor=E6162D&logoColor=fff)](https://weibo.com/5114345126)
@@ -8,8 +17,7 @@
 <!-- [![提问箱](https://img.shields.io/badge/-？%20提问箱-FF4088)](https://www.popiask.cn/yashimoe) -->
 <!-- [![Donate 捐助](https://img.shields.io/badge/-Donate%20捐助-F7931A?logo=Bitcoin&labelColor=F7931A&logoColor=fff)](https://afdian.net/@yashi) -->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thomasvader&theme=default&show_icons=true)
-
+<!--
 [![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=eb4923)](https://github.com/topics/html?q=html5&unscoped_q=html5)
 [![CSS3](https://img.shields.io/static/v1?label=&message=CSS&color=167dbe)](https://github.com/topics/css)
 [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=f7df1e)](https://github.com/topics/javascript)
@@ -21,16 +29,16 @@
 [![Flutter](https://img.shields.io/static/v1?label=&message=Flutter&color=02569b)](https://github.com/topics/flutter)
 [![Dart](https://img.shields.io/static/v1?label=&message=Dart&color=00589d)](https://github.com/topics/dart)
 [![Electronjs](https://img.shields.io/static/v1?label=&message=Electronjs&color=3b3e4e)](https://github.com/topics/electronjs)
+-->
 
-
-### 我的 GitHub 分类目录
+### My project
 
 | 名称 | 官网地址 | 描述 |
 | :----: | :---: | :--- | 
 | 🎨 [hexo-theme-sitio](https://github.com/Aftersoil/hexo-theme-sitio) | 👗 [sitio](https://sitio.aftersoil.xyz/) | 📜 优雅的hexo主题 Hexo elegant theme,是 Sitio 的主要开发者之一 |
 | 📕 [Aftersoil-wiki](https://github.com/Aftersoil/Aftersoil-wiki) | 🎆 [wiki](https://wiki.aftersoil.xyz/) | 📜 Aftersoil-wiki，后土各个网站配置文档，主要贡献值之一 |
 
-### 我的贡献的 GitHub 仓库
+### My contributed GitHub repository
 | 名称 | 官网地址 | 描述 |
 | :----: | :---: | :--- | 
 | 🤔 [ejs-site](https://github.com/mde/ejs-site) | ⚡ [ejs](https://ejs.co/) | 📜 在 ejs 官网的修改了布局一点布局/添加pwa/logo等技术 |
