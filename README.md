@@ -10,10 +10,12 @@
 ---
 
 <!-- [![PGP Key](https://img.shields.io/badge/-PGPkey-0093DD?logo=GNU%20Privacy%20Guard&labelColor=0093DD&logoColor=fff)](https://github.com/kagurazakayashi/pubkey) -->
+<!--
 [![微博](https://img.shields.io/badge/-微博-E6162D?logo=Sina%20Weibo&labelColor=E6162D&logoColor=fff)](https://weibo.com/5114345126)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=Twitter&labelColor=1DA1F2&logoColor=fff)](https://twitter.com/Thomavader)
 [![相册](https://img.shields.io/badge/-相册-E4405F?logo=Instagram&labelColor=E4405F&logoColor=fff)](https://github.com/)
 [![留言](https://img.shields.io/badge/-留言-7719AA?logo=Microsoft%20OneNote&labelColor=7719AA&logoColor=fff)](https://gist.github.com/Thomasvader/47cf3e4599c13b86b06ef3c731335248)
+-->
 <!-- [![提问箱](https://img.shields.io/badge/-？%20提问箱-FF4088)](https://www.popiask.cn/yashimoe) -->
 <!-- [![Donate 捐助](https://img.shields.io/badge/-Donate%20捐助-F7931A?logo=Bitcoin&labelColor=F7931A&logoColor=fff)](https://afdian.net/@yashi) -->
 
