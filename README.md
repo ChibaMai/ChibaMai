@@ -4,7 +4,7 @@
 
 ### welcome to my profile.
 <p align="center">
-  <a href="https://github.com/Thomasvader"><img src="https://github-readme-stats.vercel.app/api?username=thomasvader&hide_border=true&show_icons=true&theme=buefye" /></a>
+  <a href="https://github.com/Thomasvader"><img src="https://github-readme-stats.vercel.app/api?username=thomasvader&hide_border=true&show_icons=true&theme=buefy" /></a>
 </p>
 
 ---
