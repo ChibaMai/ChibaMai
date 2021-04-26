@@ -37,6 +37,7 @@
 
 | 名称 | 官网地址 | 描述 |
 | :----: | :---: | :--- | 
+| ✌ [blog](https://github.com/Thomasvader/blog) | [blog](blog.chibamai.xyz) | 📜 My personal blog |
 | 🎨 [hexo-theme-sitio](https://github.com/Aftersoil/hexo-theme-sitio) | 👗 [sitio](https://sitio.aftersoil.xyz/) | 📜 优雅的hexo主题 Hexo elegant theme,是 Sitio 的主要开发者之一 |
 | 📕 [Aftersoil-wiki](https://github.com/Aftersoil/Aftersoil-wiki) | 🎆 [wiki](https://wiki.aftersoil.xyz/) | 📜 Aftersoil-wiki，后土各个网站配置文档，主要贡献值之一 |
 
