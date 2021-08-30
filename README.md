@@ -22,19 +22,12 @@ I am a front-end engineer.
 
 ### My project
 
-| 名称 | 状态 | 官网地址 | 描述 |
-| :----: | :---: | :---: | :--- | 
-| 😘 [blog](https://github.com/ChibaMai/blog) | - [x] | [blog](https://blog.chibamai.xyz) | My personal blog |
-| 🎨 [hexo-theme-sitio](https://github.com/Aftersoil/hexo-theme-sitio) | - [] | [sitio](https://wiki.chibamai.xyz/) | 优雅的hexo主题 Hexo elegant theme,是 Sitio 的主要开发者之一 |
-| 📕 [Aftersoil-wiki](https://github.com/Aftersoil/Aftersoil-wiki) | - [x] | [wiki](https://wiki.aftersoil.xyz/) | Aftersoil-wiki，后土各个网站配置文档，主要贡献值之一 |
-
-- [x]
-- []
+- [x] 😘 My personal blog [blog](https://github.com/ChibaMai/blog) 
+- [ ] 🎨 优雅的hexo主题 Hexo elegant theme,是 Sitio 的主要开发者之一 [hexo-theme-sitio](https://github.com/Aftersoil/hexo-theme-sitio)
+- [x] 📕 wiki，开发文档，笔记，等... [Aftersoil-wiki](https://github.com/Aftersoil/Aftersoil-wiki)
 
 ### My contributed GitHub repository
-| 名称 | 官网地址 | 描述 |
-| :----: | :---: | :--- | 
-| [ejs-site](https://github.com/mde/ejs-site) | [ejs](https://ejs.co/) | 在 ejs 官网的修改了布局一点布局/添加pwa/logo等技术 |
+- [x] 在 ejs 官网的修改了布局一点布局/添加pwa/logo等技术 [ejs-site](https://github.com/mde/ejs-site)
 
 <!--
 | 🤔  | ✨ []() | 📜  |
